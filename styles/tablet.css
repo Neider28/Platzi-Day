@@ -1,0 +1,154 @@
+.main-hero {
+    padding: 20px 40px;
+    display: flex;
+}
+
+.main-hero--text {
+    width: 350px;
+    height: auto;
+}
+
+.main-hero--text h1 {
+    font-size: 2.8rem;
+}
+
+.fechas {
+    font-size: 1.4rem;
+}
+
+.text {
+    font-size: 1.4rem;
+    margin-bottom: 30px;
+    line-height: 17px;
+}
+
+.main-hero--complete {
+    width: 100%;
+    height: auto;
+    padding: 5px 0;
+    display: flex;
+    justify-content: center
+}
+
+.main-hero--complete input {
+    width: 170px;
+    height: 28px;
+}
+
+.main-hero--image {
+    width: 220px;
+    height: 240px;
+}
+
+.main-who {
+    padding: 0px 40px;
+    padding-bottom: 30px;
+}
+
+.main-who h2 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.main-who p {
+    font-size: 1.4rem;
+}
+
+.main-suscripcion {
+    width: 100%;
+    height: auto;
+    padding: 0px 40px;
+    padding-bottom: 10px;
+}
+
+.main-suscripcion h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.container-suscripciones {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card-suscripcion {
+    display: flex;
+    align-items: center;
+}
+
+.description {
+    width: auto;
+    height: auto;
+}
+
+.card-suscripcion h2 {
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+}
+
+.card-suscripcion p {
+    font-size: 1.4rem;
+}
+
+.main-cursos {
+    width: 100%;
+    height: auto;
+    padding: 0px 40px;
+    padding-bottom: 10px;
+}
+
+.main-cursos h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.container-cursos {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.cursos {
+    width: 200px;
+    height: 100px;
+    padding: 20px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.cursos h2 {
+    font-size: 2.2rem;
+    margin-bottom: 0px;
+}
+
+footer {
+    width: 100%;
+    height: 230px;
+    padding: 20px 40px;
+}
+
+footer p {
+    width: 400px;
+    font-size: 1.4rem;
+    line-height: 15px;
+    text-align: justify;
+    margin-top: 10px;
+}
+
+.footer-list {
+    font-size: 1.4rem;
+    margin-top: 20px;
+}
+
+.footer-logo {
+    width: 150px;
+    height: 40px;
+    margin-left: -32px;
+}

@@ -1,0 +1,180 @@
+.navbar {
+    height: 80px;
+    width: 100%;
+}
+
+.nav-logo {
+    display: inline-block;
+    width: 100px;
+    height: 45px;
+    margin: 17.5px 0;
+    margin-left: 10px;
+}
+
+.navbar .nav-btn label {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    padding: 27px;
+    padding-left: 30px;
+}
+
+.main-hero {
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 20px 150px;
+    display: flex;
+}
+
+.main-hero--text {
+    width: 350px;
+    height: auto;
+    padding-top: 60px;
+}
+
+.main-hero--text h1 {
+    font-size: 3.5rem;
+}
+
+.fechas {
+    font-size: 1.4rem;
+}
+
+.text {
+    font-size: 1.4rem;
+    margin-bottom: 30px;
+    line-height: 17px;
+}
+
+.main-hero--complete {
+    width: 100%;
+    height: auto;
+    padding: 5px 0;
+    display: flex;
+    justify-content: center
+}
+
+.main-hero--complete input {
+    width: 200px;
+    height: 35px;
+}
+
+.main-hero--complete button {
+    width: 130px;
+    height: 35px;
+}
+
+.main-hero--image {
+    width: 320px;
+    height: 340px;
+}
+
+.main-who {
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0px 150px;
+    padding-bottom: 30px;
+}
+
+.main-who h2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.main-who p {
+    font-size: 1.4rem;
+}
+
+.main-suscripcion {
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    padding: 0px 150px;
+    padding-bottom: 10px;
+}
+
+.main-suscripcion h2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.container-suscripciones {
+    width: 750px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-suscripcion {
+    width: 220px;
+    height: 120px; 
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.description {
+    width: auto;
+    height: auto;
+}
+
+.card-suscripcion h2 {
+    font-size: 2.2rem;
+    margin-bottom: 10px;
+}
+
+.card-suscripcion p {
+    font-size: 1.4rem;
+}
+
+.main-cursos {
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    padding: 0px 150px;
+    padding-bottom: 30px;
+}
+
+.main-cursos h2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.container-cursos {
+    width: 750px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cursos {
+    width: 220px;
+    height: 120px;
+    padding: 20px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.cursos h2 {
+    font-size: 2.2rem;
+    margin-bottom: 0px;
+}
+
+footer {
+    width: 100%;
+    height: 220px;
+    padding: 20px 80px;
+}
+
+.footer-list li {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+}

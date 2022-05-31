@@ -1,0 +1,3 @@
+# 💚Platzi Day💚
+This landing page is a Platzi challenge about the creation of my first website. The challenge was to finish the final HTML and CSS course in three weeks and recreate a Platzi Day page with the acquired knowledge. It is a simple static page but I consider it a good start to begin as a web developer. You can visit my page challenge here: [Link project](https://neider28.github.io/Platzi-Day/ "Link project"). I hope you like it and don't forget to visit Platzi at the following link: [Platzi.com](http://platzi.com "Platzi.com")
+[![Platzi Day](https://i.blogs.es/5dfc41/logo-platzi-day/1366_2000.jpeg "Platzi Day")](https://i.blogs.es/5dfc41/logo-platzi-day/1366_2000.jpeg "Platzi Day")
